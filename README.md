@@ -2,8 +2,8 @@
 
 Easy to use web performance analysis tool
 
-[![npm package](https://img.shields.io/npm/v/jscalpel.svg)](https://www.npmjs.org/package/mperformance)
-[![NPM downloads](http://img.shields.io/npm/dm/jscalpel.svg)](https://npmjs.org/package/mperformance)
+[![npm package](https://img.shields.io/npm/v/mperformance.svg)](https://www.npmjs.org/package/mperformance)
+[![NPM downloads](http://img.shields.io/npm/dm/mperformance.svg)](https://npmjs.org/package/mperformance)
 
 ## Document
 
@@ -12,7 +12,7 @@ Easy to use web performance analysis tool
 ## Installation
 
 #### Install using npm 
-[![iperformance](https://nodei.co/npm/jscalpel.png)](https://npmjs.org/package/iperformance)
+[![mperformance](https://nodei.co/npm/jscalpel.png)](https://npmjs.org/package/mperformance)
 ``` 
 npm install mperformance --save
 yarn add mperformance --save
