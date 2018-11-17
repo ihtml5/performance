@@ -12,7 +12,7 @@ Easy to use web performance analysis tool
 ## Installation
 
 #### Install using npm 
-[![mperformance](https://nodei.co/npm/jscalpel.png)](https://npmjs.org/package/mperformance)
+[![mperformance](https://nodei.co/npm/mperformance.png)](https://npmjs.org/package/mperformance)
 ``` 
 npm install mperformance --save
 yarn add mperformance --save
